@@ -1,0 +1,28 @@
+body{
+  font-family: 'PT Sans', sans-serif;
+}
+.navbar-default {
+  background-color: transparent;
+  border-radius: 0;
+}
+
+.navbar-default#text li a{
+  color: white;
+}
+
+.img-responsive {
+  border-radius: 1000px;
+  width: 240px;
+  width: 190px;
+  transform: rotate(90deg);
+  margin: 90px auto 30px auto;
+}
+
+.navbar-default .fa {
+  font-size: 30px;
+  
+}
+
+.contact {
+  margin-left: 380px;
+}
