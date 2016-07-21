@@ -14,13 +14,14 @@ body{
   border-radius: 1000px;
   width: 240px;
   width: 190px;
+  -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
   transform: rotate(90deg);
   margin: 90px auto 30px auto;
 }
 
 .navbar-default .fa {
   font-size: 30px;
-  
+
 }
 
 .contact {
